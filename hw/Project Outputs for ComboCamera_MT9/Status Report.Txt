@@ -1,0 +1,11 @@
+Output: ComboCamera BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ComboCamera_MT9.PrjPcb]
+   Generated File[ComboCamera BOM-ComboCamera_MT9.xls]
+   Generated File[ComboCamera BOM-ComboCamera_MT9.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:49:48 On 19.05.2020
